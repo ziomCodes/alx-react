@@ -1,0 +1,1 @@
+This are tasks for the react inline styling project.
