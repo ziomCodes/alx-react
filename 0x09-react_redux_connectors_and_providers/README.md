@@ -1,1 +1,0 @@
-This are tasks for the react redux connectors and providers project.
